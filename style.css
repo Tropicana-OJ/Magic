@@ -1,0 +1,18 @@
+body{
+background-color: lightblue;	
+text-align:center;
+
+}
+body > h1{
+border: solid;
+border-radius: 15px;
+}
+body > div{
+padding-top: 30px;
+padding-bottom:7px;
+margin:10px;	
+}
+#button{
+ border-radius: 15px;   
+ background-color: gray;   
+}
